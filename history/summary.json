@@ -22,19 +22,19 @@
     "url": "https://portfolio.radhi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/portfolio.radhi.tech.ico",
     "slug": "portfolio",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 469,
-    "timeDay": 499,
-    "timeWeek": 462,
-    "timeMonth": 469,
-    "timeYear": 469,
+    "status": "up",
+    "uptime": "99.83%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
+    "time": 623,
+    "timeDay": 1104,
+    "timeWeek": 668,
+    "timeMonth": 623,
+    "timeYear": 623,
     "dailyMinutesDown": {
-      "2025-04-16": 0
+      "2025-04-16": 18
     }
   },
   {
