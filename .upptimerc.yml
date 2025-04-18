@@ -14,8 +14,9 @@ sites:
     ipv6: true
 
 status-website:
-  # cname: status.radhi.tech
+  cname: status.radhi.tech
   baseUrl: /web-monitor
+  theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**radhi.tech Status**"
