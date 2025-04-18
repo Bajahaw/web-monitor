@@ -9,9 +9,6 @@ sites:
     url: https://portfolio.radhi.tech
   - name: Multi tic tac
     url: https://multi-tic-tac.onrender.com
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   cname: status.radhi.tech
