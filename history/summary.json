@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 381,
-    "timeWeek": 439,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 448,
+    "timeDay": 432,
+    "timeWeek": 453,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 575,
-    "timeDay": 372,
-    "timeWeek": 635,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 571,
+    "timeDay": 406,
+    "timeWeek": 625,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-04-16": 18
     }
@@ -42,17 +42,17 @@
     "url": "https://multi-tic-tac.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/multi-tic-tac.onrender.com.ico",
     "slug": "multi-tic-tac",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 247,
+    "timeDay": 247,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
