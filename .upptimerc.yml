@@ -3,10 +3,12 @@ owner: bajahaw
 repo: web-monitor
 
 sites:
-  - name: Main
+  - name: radhi.tech
     url: https://www.radhi.tech
   - name: Portfolio
     url: https://portfolio.radhi.tech
+  - name: Backend infrastructure
+    url: https://backend.radhi.tech/_
   - name: Multi tic tac
     url: https://multi-tic-tac.onrender.com
 
@@ -17,12 +19,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**radhi.tech Status**"
-  introMessage: This static status page uses **real-time** data from [GitHub repository](https://github.com/bajahaw/web-monitor). No server used — just GitHub Actions, Issues, and Pages. [** Thanks to Upptime **](https://github.com/upptime/upptime)
+  introMessage: Static status page with **real-time** data
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
