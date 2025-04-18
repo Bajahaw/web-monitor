@@ -15,7 +15,7 @@ sites:
 
 status-website:
   cname: status.radhi.tech
-  baseUrl: /web-monitor
+  # baseUrl: /web-monitor
   theme: light
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
