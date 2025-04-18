@@ -1,20 +1,20 @@
 [
   {
-    "name": "Main",
+    "name": "radhi.tech",
     "url": "https://www.radhi.tech",
     "icon": "https://icons.duckduckgo.com/ip3/www.radhi.tech.ico",
-    "slug": "main",
+    "slug": "radhi-tech",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 448,
-    "timeDay": 432,
-    "timeWeek": 453,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 439,
+    "timeDay": 439,
+    "timeWeek": 439,
+    "timeMonth": 439,
+    "timeYear": 439,
     "dailyMinutesDown": {}
   },
   {
@@ -28,14 +28,32 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 571,
-    "timeDay": 406,
-    "timeWeek": 625,
-    "timeMonth": 571,
-    "timeYear": 571,
+    "time": 562,
+    "timeDay": 409,
+    "timeWeek": 609,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {
       "2025-04-16": 18
     }
+  },
+  {
+    "name": "Backend infrastructure",
+    "url": "https://backend.radhi.tech/_",
+    "icon": "https://icons.duckduckgo.com/ip3/backend.radhi.tech.ico",
+    "slug": "backend-infrastructure",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 509,
+    "timeDay": 509,
+    "timeWeek": 509,
+    "timeMonth": 509,
+    "timeYear": 509,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Multi tic tac",
@@ -48,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 247,
-    "timeDay": 247,
-    "timeWeek": 247,
-    "timeMonth": 247,
-    "timeYear": 247,
+    "time": 214,
+    "timeDay": 214,
+    "timeWeek": 214,
+    "timeMonth": 214,
+    "timeYear": 214,
     "dailyMinutesDown": {}
   }
 ]
