@@ -8,7 +8,7 @@ sites:
   - name: Portfolio
     url: https://portfolio.radhi.tech
   - name: Backend infrastructure
-    url: https://backend.radhi.tech/_
+    url: https://backend.radhi.tech/api/health
   - name: Multi tic tac
     url: https://multi-tic-tac.onrender.com
 
@@ -16,7 +16,7 @@ status-website:
   cname: status.radhi.tech
   # baseUrl: /web-monitor
   theme: light
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://backend.radhi.tech/api/files/pbc_2337082678/gvxpnl37tp00891/67b3adcd_b0ff_4553_8ad0_59a07750ff42_3y6npk67mc.png
   name: Upptime
   introTitle: "**radhi.tech Status**"
   introMessage: Static status page with **real-time** data
