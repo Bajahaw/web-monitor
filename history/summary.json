@@ -60,19 +60,19 @@
     "url": "https://multi-tic-tac.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/multi-tic-tac.onrender.com.ico",
     "slug": "multi-tic-tac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4575,
-    "timeDay": 243,
-    "timeWeek": 4575,
-    "timeMonth": 4575,
-    "timeYear": 4575,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 6442,
+    "timeDay": 9877,
+    "timeWeek": 6442,
+    "timeMonth": 6442,
+    "timeYear": 6442,
     "dailyMinutesDown": {
-      "2025-04-22": 0
+      "2025-04-22": 21
     }
   }
 ]
