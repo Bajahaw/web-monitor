@@ -70,7 +70,7 @@
     "url": "https://multi-tic-tac.onrender.com",
     "icon": "https://icons.duckduckgo.com/ip3/multi-tic-tac.onrender.com.ico",
     "slug": "multi-tic-tac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
     "uptimeDay": "95.97%",
     "uptimeWeek": "98.67%",
@@ -82,6 +82,7 @@
     "timeMonth": 6819,
     "timeYear": 6520,
     "dailyMinutesDown": {
+      "2025-05-20": 0,
       "2025-05-19": 58,
       "2025-05-16": 28,
       "2025-05-15": 22,
