@@ -1,7 +1,7 @@
 url: https://backend.radhi.tech/api/health
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2025-05-28T13:59:07.172Z
+status: down
+code: 502
+responseTime: 541
+lastUpdated: 2025-05-28T15:52:35.146Z
 startTime: 2025-04-18T16:51:10.839Z
 generator: Upptime <https://github.com/upptime/upptime>
