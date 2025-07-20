@@ -9,6 +9,8 @@ sites:
     url: https://portfolio.radhi.tech
   - name: Backend infrastructure
     url: https://backend.radhi.tech/api/health
+  - name: URL Shortener
+    url: https://url.radhi.tech/health
   - name: Multi tic tac
     url: https://multi-tic-tac.onrender.com
 
