@@ -18,7 +18,7 @@ status-website:
   cname: status.radhi.tech
   # baseUrl: /web-monitor
   theme: light
-  logoUrl: https://backend.radhi.tech/api/files/pbc_2337082678/gvxpnl37tp00891/67b3adcd_b0ff_4553_8ad0_59a07750ff42_3y6npk67mc.png
+  logoUrl: https://backend.radhi.tech/favicon.png
   name: Upptime
   introTitle: "**radhi.tech Status**"
   introMessage: Static status page with **real-time** data
