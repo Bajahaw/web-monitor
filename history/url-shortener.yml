@@ -1,7 +1,7 @@
 url: https://url.radhi.tech/health
-status: down
-code: 503
-responseTime: 7748
-lastUpdated: 2025-07-23T06:39:17.851Z
+status: up
+code: 200
+responseTime: 1936
+lastUpdated: 2025-07-23T11:27:06.779Z
 startTime: 2025-07-20T20:47:50.417Z
 generator: Upptime <https://github.com/upptime/upptime>
