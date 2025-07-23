@@ -77,19 +77,19 @@
     "url": "https://url.radhi.tech/health",
     "icon": "https://icons.duckduckgo.com/ip3/url.radhi.tech.ico",
     "slug": "url-shortener",
-    "status": "down",
-    "uptime": "91.42%",
-    "uptimeDay": "76.13%",
-    "uptimeWeek": "91.42%",
-    "uptimeMonth": "91.42%",
-    "uptimeYear": "91.42%",
-    "time": 2268,
-    "timeDay": 2707,
-    "timeWeek": 2268,
-    "timeMonth": 2268,
-    "timeYear": 2268,
+    "status": "up",
+    "uptime": "88.45%",
+    "uptimeDay": "66.79%",
+    "uptimeWeek": "88.45%",
+    "uptimeMonth": "88.45%",
+    "uptimeYear": "88.45%",
+    "time": 2235,
+    "timeDay": 2578,
+    "timeWeek": 2235,
+    "timeMonth": 2235,
+    "timeYear": 2235,
     "dailyMinutesDown": {
-      "2025-07-23": 344
+      "2025-07-23": 479
     }
   },
   {
