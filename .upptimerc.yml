@@ -3,22 +3,22 @@ owner: bajahaw
 repo: web-monitor
 
 sites:
-  - name: radhi.tech
-    url: https://www.radhi.tech
+  - name: bajahaw.com
+    url: https://www.bajahaw.com
   - name: Portfolio
-    url: https://portfolio.radhi.tech
+    url: https://portfolio.bajahaw.com
   - name: URL Shortener
-    url: https://url.radhi.tech/health
+    url: https://url.bajahaw.com/health
   - name: Multi tic tac
     url: https://multi-tic-tac.onrender.com
 
 status-website:
-  cname: status.radhi.tech
+  cname: status.bajahaw.com
   # baseUrl: /web-monitor
   theme: light
-  logoUrl: https://backend.radhi.tech/favicon.png
+  logoUrl: https://backend.bajahaw.com/favicon.png
   name: Upptime
-  introTitle: "**radhi.tech Status**"
+  introTitle: "**bajahaw.com Status**"
   introMessage: Static status page with **real-time** data
   navbar:
     - title: Status
