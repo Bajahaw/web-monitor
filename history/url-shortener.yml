@@ -1,7 +1,7 @@
 url: https://url.bajahaw.com/health
-status: up
-code: 200
-responseTime: 1073
-lastUpdated: 2026-04-10T14:37:15.265Z
+status: down
+code: 502
+responseTime: 586
+lastUpdated: 2026-04-10T15:32:54.834Z
 startTime: 2025-07-20T20:47:50.417Z
 generator: Upptime <https://github.com/upptime/upptime>
